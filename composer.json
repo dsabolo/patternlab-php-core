@@ -5,7 +5,7 @@
   "homepage":         "http://patternlab.io",
   "license":          "MIT",
   "authors": [
-   {
+    {
       "name": 				"Evan Lovely",
       "homepage":			"http://evanlovely.com",
       "role":					"Lead Developer"
@@ -37,12 +37,12 @@
       "PatternLab":   "src/"
     }
   },
-	 "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/dsabolo/Zippy"
-        }
-    ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/dsabolo/Zippy"
+    }
+  ],
   "require": {
     "php": ">=5.4",
     "dsabolo/Zippy": "dev-master",
