@@ -45,7 +45,7 @@
   ],
   "require": {
     "php": ">=5.4",
-    "dsabolo/zippy": "dev-php8",
+    "alchemy/zippy": "dev-php8",
     "doctrine/collections": "2.2.1",
     "kevinlebrun/colors.php": "^1.0",
     "michelf/php-markdown": "^1.6",
