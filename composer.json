@@ -37,9 +37,15 @@
       "PatternLab":   "src/"
     }
   },
+	 "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dsabolo/Zippy"
+        }
+    ],
   "require": {
     "php": ">=5.4",
-    "alchemy/zippy": "^1.0",
+    "alchemy/zippy": "dev-master",
     "doctrine/collections": "2.2.1",
     "kevinlebrun/colors.php": "^1.0",
     "michelf/php-markdown": "^1.6",
